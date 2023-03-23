@@ -1,6 +1,7 @@
 # README
 
 This repository contains multiple small CPUs, simulated in Logisim.
+**I abandoned this in favor of [this](https://gitlab.com/ChUrl/quartus-8-bit-cpu).**
 
 ## Models
 
